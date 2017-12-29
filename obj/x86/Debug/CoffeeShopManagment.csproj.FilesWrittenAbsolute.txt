@@ -1,0 +1,5 @@
+/home/ammar/Desktop/Development/CoffeeShopManagment/CoffeeShopManagment/CoffeeShopManagment/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ammar/Desktop/Development/CoffeeShopManagment/CoffeeShopManagment/CoffeeShopManagment/bin/Debug/CoffeeShopManagment.exe.mdb
+/home/ammar/Desktop/Development/CoffeeShopManagment/CoffeeShopManagment/CoffeeShopManagment/bin/Debug/CoffeeShopManagment.exe
+/home/ammar/Desktop/Development/CoffeeShopManagment/CoffeeShopManagment/CoffeeShopManagment/obj/x86/Debug/CoffeeShopManagment.exe
+/home/ammar/Desktop/Development/CoffeeShopManagment/CoffeeShopManagment/CoffeeShopManagment/obj/x86/Debug/CoffeeShopManagment.exe.mdb

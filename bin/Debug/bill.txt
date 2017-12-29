@@ -1,0 +1,3 @@
+Simple Coffee: 50 PKR
+Sandwich: 100 PKR
+Total Bill: 150
